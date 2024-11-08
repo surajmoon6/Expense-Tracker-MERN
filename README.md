@@ -122,9 +122,6 @@ MERN-Expense-Tracker/
 - React.js
 - React Router
 - Context API
-- Axios
-- Chart.js
-- Tailwind CSS
 
 ## Contributing
 
@@ -147,4 +144,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-For support, email your-email@example.com or open an issue in this repository.
+For support,or open an issue in this repository.
