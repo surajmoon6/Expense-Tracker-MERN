@@ -1,6 +1,15 @@
-# MERN Expense Tracker
+![Screenshot 2024-11-08 115748](https://github.com/user-attachments/assets/0606b25e-481c-4434-84d7-fce200bb1670)# MERN Expense Tracker
 
 A full-stack expense tracking application built with the MERN (MongoDB, Express.js, React.js, Node.js) stack. This application helps users track their income and expenses, categorize transactions, and visualize their spending patterns.
+
+
+![Screenshot 2024-11-08 115557](https://github.com/user-attachments/assets/a2d4c450-4e93-4dbb-bfd5-fd5ba32acf16)
+
+![Screenshot 2024-11-08 115621](https://github.com/user-attachments/assets/494cee2e-fa55-45af-8760-c978fa504d31)
+
+![Screenshot 2024-11-08 115748](https://github.com/user-attachments/assets/0a374450-71f5-470d-ba0e-1c6d476b91b8)
+
+
 
 ## Features
 
